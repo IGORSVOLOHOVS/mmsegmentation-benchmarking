@@ -118,3 +118,8 @@ mmseg/.mim
 
 # Pytorch
 *.pth
+*.png
+*.jpg
+.gitignore
+*.zip
+practicum_work/dataset/
