@@ -119,6 +119,7 @@ mmseg/.mim
 # Pytorch
 *.pth
 *.png
+!docs/*.png
 *.jpg
 .gitignore
 *.zip
