@@ -87,17 +87,17 @@ It turned out that for this task and the selected image size (256x256), a comple
 
 ### Correct Prediction Examples (Test Dataset)
 Selected images with the best individual mDice score (sorted by script):  
-![Best 1](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/best/best_0_score_0.9858_000000437537_2563.png)  
-![Best 2](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/best/best_1_score_0.9857_000000495159_4697.png)  
-![Best 3](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/best/best_2_score_0.9853_000000446604_4215.png)  
-![Best 4](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/best/best_3_score_0.9852_000000414495_3471.png)  
+![Best 1](docs/best_0_score_0.9858_000000437537_2563.png)  
+![Best 2](docs/best_1_score_0.9857_000000495159_4697.png)  
+![Best 3](docs/best_2_score_0.9853_000000446604_4215.png)  
+![Best 4](docs/best_3_score_0.9852_000000414495_3471.png)  
 
 ### Error Examples (Test Dataset)
 Selected images with the worst individual mDice score:  
-![Worst 1](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/worst/worst_0_score_0.0000_000000284884_6459.png)  
-![Worst 2](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/worst/worst_1_score_0.0000_000000436539_4321.png)  
-![Worst 3](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/worst/worst_2_score_0.1320_000000445187_3686.png)  
-![Worst 4](practicum_work/experiments/deeplabv3plus_r50_d8/best_worst_test/worst/worst_3_score_0.2722_000000308083_5809.png)  
+![Worst 1](docs/worst_0_score_0.0000_000000284884_6459.png)  
+![Worst 2](docs/worst_1_score_0.0000_000000436539_4321.png)  
+![Worst 3](docs/worst_2_score_0.1320_000000445187_3686.png)  
+![Worst 4](docs/worst_3_score_0.2722_000000308083_5809.png)  
 
 ## Phase 5. Code Documentation
 
