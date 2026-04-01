@@ -123,3 +123,6 @@ mmseg/.mim
 .gitignore
 *.zip
 practicum_work/dataset/
+submit_files/
+submit_sources/
+
